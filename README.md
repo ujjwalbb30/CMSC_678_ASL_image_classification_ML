@@ -83,7 +83,6 @@ All notebooks are designed for **Google Colab** with data stored on Google Drive
 
 1. Open any notebook via its "Open in Colab" badge.
 2. Mount Google Drive when prompted.
-3. Place the dataset at `MyDrive/CMSC_678/ML_Project/dataset/asl_alphabet_train/` in your Drive.
 4. Run all cells top-to-bottom — the notebook handles `split-folders` installation and data copying automatically.
 
 ## Future Work
